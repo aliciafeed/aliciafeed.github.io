@@ -6,12 +6,15 @@ body {
   font-size: 24px;
   line-height: 1.5;
   color: #222222; }
+article {
+  margin:20px;
+}
 p {
-  font-weight:100;
+  font-weight:200;
   font-size:24px;
 }
 a {
-  font-weight:600;
+  font-weight:300;
   color: #1e6bb8;
   text-decoration: none; }
   a:hover {
